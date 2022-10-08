@@ -27,7 +27,7 @@ This is a simple text editor app that can function both online and offline. The 
 ## Installation 
 to install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json. 
 ## Usage
-
+ To use this application open it in the browser with the link provided. to use offline, the user can go to the link and hit the "install" button at the top left corner of the page.
 ## Contributors 
   [Jovani Gomez](https://github.com/jovanigomez?tab=repositories)
 
@@ -35,7 +35,7 @@ to install the dependencies for this project, the user simply needs to clone the
 No tests are required.
 
 ## Deployed Link
- [Deployed Link](insert.here)
+ [Deployed Link](https://pwatexteditor3.herokuapp.com/)
 ## Contact
  * [GitHub](https://github.com/jovanigomez?tab=repositories)
 
